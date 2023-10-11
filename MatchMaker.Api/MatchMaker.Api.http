@@ -1,0 +1,6 @@
+@MatchMaker.Api_HostAddress = http://localhost:5039
+
+GET {{MatchMaker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
